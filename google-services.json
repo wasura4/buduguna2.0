@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "36835590432",
+    "firebase_url": "https://meditation-63b2b.firebaseio.com",
+    "project_id": "meditation-63b2b",
+    "storage_bucket": "meditation-63b2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36835590432:android:5e6417d411cea465",
+        "android_client_info": {
+          "package_name": "com.wasu.buduguna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36835590432-mmuc44a28o8k49n6s6qvsipl8l0l5d1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6uFoA7ROXY4F8m5TxW7LTKrasXqVMvkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
