@@ -52,27 +52,14 @@
     <plugin name="cordova-plugin-network-information" />
   
     <plugin name="cordova-plugin-vibration" />
-    <plugin name="cordova-plugin-firebase" spec="0.1.19" />
-     <?xml version="1.0" encoding="UTF-8"?>
+    <plugin name="cordova-plugin-firebase"/>
+   
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:amazon="http://schemas.android.com/apk/lib/com.amazon.device.ads"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     id="com.phonegap.plugins.PushPlugin"
     version="2.5.0">
-
-  <name>PushPlugin</name>
-	<author>Bob Easterday</author>
-
-	<description>
-		This plugin allows your application to receive push notifications on Android, iOS, WP8 and Windows8 devices.
-    Android uses Google Cloud Messaging.
-    iOS uses Apple APNS Notifications.
-    WP8 uses Microsoft MPNS Notifications.
-    Windows8 uses Microsoft WNS Notifications.
-	</description>
-
-	<license>MIT</license>
 
 	<js-module src="www/PushNotification.js" name="PushNotification">
         <clobbers target="PushNotification" />
