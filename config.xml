@@ -54,7 +54,7 @@
   
     <plugin name="cordova-plugin-vibration" />
     <plugin name="cordova-plugin-firebase"/>
-<plugin>
+
         <js-module src="www/PushNotification.js" name="PushNotification">
         <clobbers target="PushNotification" />
 	</js-module>
@@ -206,7 +206,7 @@
     </js-module>
   </platform>
 
-</plugin>
+
 
         
         
